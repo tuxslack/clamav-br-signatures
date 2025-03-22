@@ -36,10 +36,17 @@ sigtool --sha256 jogo.exe
 
 Arquivo clamav-br-signatures.ndb
 
-VirusName: MalwareExemplo
-Description: Malware identificado com hash SHA256
-DetectionMethod: hash
-Signature: SHA256:2fc425b62f45c4ea04da32ae867f520192e515c4e145ab92590d27d36b7cb230
+ee03285146c99a4cb042979566028503:151768:Trojan.GenericKD.61464077
+025596c1433fdd0a8470a8f67bd022a2:88399:Phishing.HTML.Doc
+f616866f79a438997916d0046ab82d8a:248367:Trojan.GenericKDS.61000948
+c634bab45ecdefe5bfcbbc04d205f0e1:1245184:Trojan.GenericKD.61570137
+dbf93d8a1fec0d65cadc3c9da5cb7ad4:214569:Trojan.NSIS.Guloader
+2308f3613859e44ccad4f384bc5d3391:165201:Trojan.Zmutzy.Pong.2
+cdc5b9c2a457856a1415bab1fad13860:190040:Trojan.GenericKD.61684063
+57332083d1cef0b155eed1b2336a0d19:1245184:Trojan.Win32.Injector
+c396e0d3b37a6db1b18e88ccbff3f167:841931:Trojan.GenericKD.61807796
+9f0189b1ed95a5c5f7980f107f041a29:249370:Trojan.NSIS.Guloader
+c0e9f2fc8507e4667b92b6970a23eeae:668484:Gen:Trojan.Olock.1
 
 
 
